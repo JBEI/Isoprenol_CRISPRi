@@ -1,0 +1,97 @@
+﻿Sample Number,Strain,Target,Titer
+1,$\Delta$PP_0368,Non-target,191.872
+2,$\Delta$PP_0751,Non-target,238.133
+3,$\Delta$PP_0812,Non-target,336.1871
+4,$\Delta$PP_0813,Non-target,412.9922
+5,$\Delta$PP_0814,Non-target,296.4604
+6,$\Delta$PP_0815,Non-target,298.7212
+7,$\Delta$PP_1317,Non-target,94.0828
+8,Control_P1,Non-target,160.5556
+9,$\Delta$PP_0368,Non-target,167.367
+10,$\Delta$PP_0751,Non-target,362.4014
+11,$\Delta$PP_0812,Non-target,299.4838
+12,$\Delta$PP_0813,Non-target,389.6801
+13,$\Delta$PP_0814,Non-target,290.0816
+14,$\Delta$PP_0815,Non-target,300.8078
+15,$\Delta$PP_1317,Non-target,92.3217
+16,Control_P1,Non-target,138.7685
+17,$\Delta$PP_0368,Non-target,172.4886
+18,$\Delta$PP_0751,Non-target,303.7573
+19,$\Delta$PP_0812,Non-target,292.5602
+20,$\Delta$PP_0813,Non-target,393.3061
+21,$\Delta$PP_0814,Non-target,292.3528
+22,$\Delta$PP_0815,Non-target,299.1225
+23,$\Delta$PP_1317,Non-target,96.0542
+24,Control_P1,Non-target,150.1737
+25,$\Delta$PP_0368,Target,228.226
+26,$\Delta$PP_0751,Target,287.4712
+27,$\Delta$PP_0812,Target,325.5487
+28,$\Delta$PP_0813,Target,399.4451
+29,$\Delta$PP_0814,Target,304.035
+30,$\Delta$PP_0815,Target,8.251
+31,$\Delta$PP_1317,Target,135.4253
+32,Control_P1,Non-target,156.1927
+33,$\Delta$PP_0368,Target,222.429
+34,$\Delta$PP_0751,Target,314.1185
+35,$\Delta$PP_0812,Target,329.0498
+36,$\Delta$PP_0813,Target,392.9578
+37,$\Delta$PP_0814,Target,287.5533
+38,$\Delta$PP_0815,Target,6.5496
+39,$\Delta$PP_1317,Target,116.9002
+40,Control_P1,Non-target,145.9214
+41,$\Delta$PP_0368,Target,224.9668
+42,$\Delta$PP_0751,Target,220.3692
+43,$\Delta$PP_0812,Target,334.7021
+44,$\Delta$PP_0813,Target,402.9973
+45,$\Delta$PP_0814,Target,297.3073
+46,$\Delta$PP_0815,Target,6.4175
+47,$\Delta$PP_1317,Target,140.1178
+48,Control_P1,Non-target,159.4057
+49,$\Delta$PP_4120,Non-target,205.2649
+50,$\Delta$PP_4189,Non-target,170.74
+51,$\Delta$PP_0812-0815,Non-target,332.5798
+52,"$\Delta$PP_0812-0815, $\Delta$PP_1317",Non-target,178.2441
+53,"$\Delta$PP_0751, $\Delta$PP_0812",Non-target,304.1385
+54,"$\Delta$PP_0812, $\Delta$PP_1317",Non-target,206.491
+55,"$\Delta$PP_0812-0815, $\Delta$PP_0368",Non-target,207.0068
+56,Control_P2,Non-target,127.6855
+57,$\Delta$PP_4120,Non-target,203.9816
+58,$\Delta$PP_4189,Non-target,178.6212
+59,$\Delta$PP_0812-0815,Non-target,332.0093
+60,"$\Delta$PP_0812-0815, $\Delta$PP_1317",Non-target,169.4817
+61,"$\Delta$PP_0751, $\Delta$PP_0812",Non-target,304.4693
+62,"$\Delta$PP_0812, $\Delta$PP_1317",Non-target,198.1762
+63,"$\Delta$PP_0812-0815, $\Delta$PP_0368",Non-target,196.9538
+64,Control_P2,Non-target,126.062
+65,$\Delta$PP_4120,Non-target,200.8838
+66,$\Delta$PP_4189,Non-target,173.9326
+67,$\Delta$PP_0812-0815,Non-target,332.6969
+68,"$\Delta$PP_0812-0815, $\Delta$PP_1317",Non-target,185.3528
+69,"$\Delta$PP_0751, $\Delta$PP_0812",Non-target,289.4421
+70,"$\Delta$PP_0812, $\Delta$PP_1317",Non-target,197.6293
+71,"$\Delta$PP_0812-0815, $\Delta$PP_0368",Non-target,204.4457
+72,Control_P2,Non-target,132.4897
+73,$\Delta$PP_4120,Target,206.0419
+74,$\Delta$PP_4189,Target,152.9601
+75,$\Delta$PP_0812-0815,Target,510.9244
+76,"$\Delta$PP_0812-0815, $\Delta$PP_1317",Target,158.2136
+77,"$\Delta$PP_0751, $\Delta$PP_0812",Target,314.4071
+78,"$\Delta$PP_0812, $\Delta$PP_1317",Target,168.7897
+79,"$\Delta$PP_0812-0815, $\Delta$PP_0368",Target,240.1951
+80,Control_P2,Non-target,142.5614
+81,$\Delta$PP_4120,Target,206.8461
+82,$\Delta$PP_4189,Target,156.5425
+83,$\Delta$PP_0812-0815,Target,538.4633
+84,"$\Delta$PP_0812-0815, $\Delta$PP_1317",Target,149.2289
+85,"$\Delta$PP_0751, $\Delta$PP_0812",Target,321.5575
+86,"$\Delta$PP_0812, $\Delta$PP_1317",Target,191.849
+87,"$\Delta$PP_0812-0815, $\Delta$PP_0368",Target,239.8913
+88,Control_P2,Non-target,164.2308
+89,$\Delta$PP_4120,Target,230.9106
+90,$\Delta$PP_4189,Target,164.3237
+91,$\Delta$PP_0812-0815,Target,589.4584
+92,"$\Delta$PP_0812-0815, $\Delta$PP_1317",Target,159.2809
+93,"$\Delta$PP_0751, $\Delta$PP_0812",Target,343.4651
+94,"$\Delta$PP_0812, $\Delta$PP_1317",Target,184.1933
+95,"$\Delta$PP_0812-0815, $\Delta$PP_0368",Target,255.4871
+96,Control_P2,Non-target,155.3421

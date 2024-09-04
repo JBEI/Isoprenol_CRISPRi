@@ -1,0 +1,97 @@
+Sample Number,Strain,Target,Titer
+1,?PP_0368,Non-target,191.872
+2,?PP_0751,Non-target,238.133
+3,?PP_0812,Non-target,336.1871
+4,?PP_0813,Non-target,412.9922
+5,?PP_0814,Non-target,296.4604
+6,?PP_0815,Non-target,298.7212
+7,?PP_1317,Non-target,94.0828
+8,Control_P1,Non-target,160.5556
+9,?PP_0368,Non-target,167.367
+10,?PP_0751,Non-target,362.4014
+11,?PP_0812,Non-target,299.4838
+12,?PP_0813,Non-target,389.6801
+13,?PP_0814,Non-target,290.0816
+14,?PP_0815,Non-target,300.8078
+15,?PP_1317,Non-target,92.3217
+16,Control_P1,Non-target,138.7685
+17,?PP_0368,Non-target,172.4886
+18,?PP_0751,Non-target,303.7573
+19,?PP_0812,Non-target,292.5602
+20,?PP_0813,Non-target,393.3061
+21,?PP_0814,Non-target,292.3528
+22,?PP_0815,Non-target,299.1225
+23,?PP_1317,Non-target,96.0542
+24,Control_P1,Non-target,150.1737
+25,?PP_0368,Target,228.226
+26,?PP_0751,Target,287.4712
+27,?PP_0812,Target,325.5487
+28,?PP_0813,Target,399.4451
+29,?PP_0814,Target,304.035
+30,?PP_0815,Target,8.251
+31,?PP_1317,Target,135.4253
+32,Control_P1,Non-target,156.1927
+33,?PP_0368,Target,222.429
+34,?PP_0751,Target,314.1185
+35,?PP_0812,Target,329.0498
+36,?PP_0813,Target,392.9578
+37,?PP_0814,Target,287.5533
+38,?PP_0815,Target,6.5496
+39,?PP_1317,Target,116.9002
+40,Control_P1,Non-target,145.9214
+41,?PP_0368,Target,224.9668
+42,?PP_0751,Target,220.3692
+43,?PP_0812,Target,334.7021
+44,?PP_0813,Target,402.9973
+45,?PP_0814,Target,297.3073
+46,?PP_0815,Target,6.4175
+47,?PP_1317,Target,140.1178
+48,Control_P1,Non-target,159.4057
+49,?PP_4120,Non-target,205.2649
+50,?PP_4189,Non-target,170.74
+51,?PP_0812-0815,Non-target,332.5798
+52,"?PP_0812-0815, ?PP_1317",Non-target,178.2441
+53,"?PP_0751, ?PP_0812",Non-target,304.1385
+54,"?PP_0812, ?PP_1317",Non-target,206.491
+55,"?PP_0812-0815, ?PP_0368",Non-target,207.0068
+56,Control_P2,Non-target,127.6855
+57,?PP_4120,Non-target,203.9816
+58,?PP_4189,Non-target,178.6212
+59,?PP_0812-0815,Non-target,332.0093
+60,"?PP_0812-0815, ?PP_1317",Non-target,169.4817
+61,"?PP_0751, ?PP_0812",Non-target,304.4693
+62,"?PP_0812, ?PP_1317",Non-target,198.1762
+63,"?PP_0812-0815, ?PP_0368",Non-target,196.9538
+64,Control_P2,Non-target,126.062
+65,?PP_4120,Non-target,200.8838
+66,?PP_4189,Non-target,173.9326
+67,?PP_0812-0815,Non-target,332.6969
+68,"?PP_0812-0815, ?PP_1317",Non-target,185.3528
+69,"?PP_0751, ?PP_0812",Non-target,289.4421
+70,"?PP_0812, ?PP_1317",Non-target,197.6293
+71,"?PP_0812-0815, ?PP_0368",Non-target,204.4457
+72,Control_P2,Non-target,132.4897
+73,?PP_4120,Target,206.0419
+74,?PP_4189,Target,152.9601
+75,?PP_0812-0815,Target,510.9244
+76,"?PP_0812-0815, ?PP_1317",Target,158.2136
+77,"?PP_0751, ?PP_0812",Target,314.4071
+78,"?PP_0812, ?PP_1317",Target,168.7897
+79,"?PP_0812-0815, ?PP_0368",Target,240.1951
+80,Control_P2,Non-target,142.5614
+81,?PP_4120,Target,206.8461
+82,?PP_4189,Target,156.5425
+83,?PP_0812-0815,Target,538.4633
+84,"?PP_0812-0815, ?PP_1317",Target,149.2289
+85,"?PP_0751, ?PP_0812",Target,321.5575
+86,"?PP_0812, ?PP_1317",Target,191.849
+87,"?PP_0812-0815, ?PP_0368",Target,239.8913
+88,Control_P2,Non-target,164.2308
+89,?PP_4120,Target,230.9106
+90,?PP_4189,Target,164.3237
+91,?PP_0812-0815,Target,589.4584
+92,"?PP_0812-0815, ?PP_1317",Target,159.2809
+93,"?PP_0751, ?PP_0812",Target,343.4651
+94,"?PP_0812, ?PP_1317",Target,184.1933
+95,"?PP_0812-0815, ?PP_0368",Target,255.4871
+96,Control_P2,Non-target,155.3421
