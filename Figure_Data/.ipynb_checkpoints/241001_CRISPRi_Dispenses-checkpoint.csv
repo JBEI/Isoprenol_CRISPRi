@@ -1,0 +1,37 @@
+Cycle,Stage,Dispenses
+DBTL-1,Digest and Ligate Dispense,348
+DBTL-2,Digest and Ligate Dispense,228
+DBTL-3,Digest and Ligate Dispense,228
+DBTL-4,Digest and Ligate Dispense,164
+DBTL-5,Digest and Ligate Dispense,140
+DBTL-6,Digest and Ligate Dispense,145
+DBTL-1,Assembly dispenses,270
+DBTL-2,Assembly dispenses,350
+DBTL-3,Assembly dispenses,350
+DBTL-4,Assembly dispenses,340
+DBTL-5,Assembly dispenses,340
+DBTL-6,Assembly dispenses,370
+DBTL-1,Strains,60
+DBTL-2,Strains,60
+DBTL-3,Strains,60
+DBTL-4,Strains,60
+DBTL-5,Strains,60
+DBTL-6,Strains,60
+DBTL-1,Total Guides,150
+DBTL-2,Total Guides,170
+DBTL-3,Total Guides,170
+DBTL-4,Total Guides,170
+DBTL-5,Total Guides,170
+DBTL-6,Total Guides,190
+DBTL-1,Unique Guide Positions,84
+DBTL-2,Unique Guide Positions,54
+DBTL-3,Unique Guide Positions,54
+DBTL-4,Unique Guide Positions,41
+DBTL-5,Unique Guide Positions,35
+DBTL-6,Unique Guide Positions,34
+DBTL-1,Unique Guides,59
+DBTL-2,Unique Guides,28
+DBTL-3,Unique Guides,28
+DBTL-4,Unique Guides,16
+DBTL-5,Unique Guides,16
+DBTL-6,Unique Guides,14
