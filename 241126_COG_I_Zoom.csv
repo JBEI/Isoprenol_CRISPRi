@@ -1,0 +1,27 @@
+﻿From,Locus,Source,To,Letter,Pathway,Func
+Q88QW6,PP_0368,Heuristics,COG1960,I,β-Oxidation,Acyl-CoA dehydrogenase related to the alkylation response protein AidB
+Q88QB2,PP_0582,Heuristics,COG0183,I,β-Oxidation,Acetyl-CoA acetyltransferase
+Q88Q97,PP_0597,Heuristics,COG1012,I,Fatty acid biosynthesis,Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase
+Q88MG4,PP_1607,Heuristics,COG0825,I,Fatty acid biosynthesis,Acetyl-CoA carboxylase alpha subunit
+Q88L02,PP_2136,Heuristics,COG1250,I,β-Oxidation,3-hydroxyacyl-CoA dehydrogenase
+Q88L01,PP_2137,Heuristics,COG0183,I,β-Oxidation,Acetyl-CoA acetyltransferase
+Q88KS6,PP_2213,Heuristics,COG0365,I,Acetyl-CoA biosynthesis,Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase
+Q88JR0,PP_2589,Heuristics,COG1012,I,Fatty acid biosynthesis,Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase
+Q88IC8,PP_3071,Heuristics,COG0365,I,Acetyl-CoA biosynthesis,Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase
+Q88I79,PP_3122,Heuristics,COG1788,I,β-Oxidation,"Acyl CoA:acetate/3-ketoacid CoA transferase, alpha subunit"
+Q88I78,PP_3123,Heuristics,COG2057,I,β-Oxidation,"Acyl-CoA:acetate/3-ketoacid CoA transferase, beta subunit"
+Q88HS3,PP_3280,Heuristics,COG0183,I,β-Oxidation,Acetyl-CoA acetyltransferase
+Q88HS1,PP_3282,Heuristics,COG1250,I,β-Oxidation,3-hydroxyacyl-CoA dehydrogenase
+Q88HK1,PP_3355,Heuristics,COG0183,I,β-Oxidation,Acetyl-CoA acetyltransferase
+Q88GH0,PP_3754,Heuristics,COG0183,I,β-Oxidation,Acetyl-CoA acetyltransferase
+Q88GG9,PP_3755,Heuristics,COG1250,I,β-Oxidation,3-hydroxyacyl-CoA dehydrogenase
+Q88FC4,PP_4174,FluxRETAP,COG0764,I,Fatty acid biosynthesis,3-hydroxymyristoyl/3-hydroxydecanoyl-(acyl carrier protein) dehydratase
+Q88FC3,PP_4175,FluxRETAP,COG0304,I,Fatty acid biosynthesis,3-oxoacyl-(acyl-carrier-protein) synthase
+Q88EH6,PP_4487,Heuristics,COG0365,I,Acetyl-CoA biosynthesis,Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase
+Q88EB7,PP_4549,Heuristics,COG0318,I,β-Oxidation,O-succinylbenzoic acid-CoA ligase MenE or related acyl-CoA synthetase (AMP-forming)
+Q88EB6,PP_4550,Heuristics,COG0318,I,β-Oxidation,O-succinylbenzoic acid-CoA ligase MenE or related acyl-CoA synthetase (AMP-forming)
+Q88E33,PP_4635,FluxRETAP,COG3007,I,β-Oxidation,Trans-2-enoyl-CoA reductase
+Q88E32,PP_4636,Heuristics,COG0183,I,β-Oxidation,Acetyl-CoA acetyltransferase
+Q88E01,PP_4667,Heuristics,COG1012,I,Fatty acid biosynthesis,Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase
+Q88DW6,PP_4702,Heuristics,COG0365,I,Acetyl-CoA biosynthesis,Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase
+Q88CW6,PP_5064,Heuristics,COG2303,I,Betaine biosynthesis,Choline dehydrogenase or related flavoprotein
