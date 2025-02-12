@@ -1,0 +1,6 @@
+Gene ID	Gene Accession	Gene name	Reaction id	Reaction EC	Enzymatic activity	Evidence
+G1G01-1095	PP_1022	zwf-1	GLU6PDEHYDROG-RXN	1.1.1.49	glucose 6-phosphate-1-dehydrogenase	No Evidence Code
+G1G01-4307	PP_4042	zwf-2	GLU6PDEHYDROG-RXN	1.1.1.49	glucose 6-phosphate 1-dehydrogenase	No Evidence Code
+G1G01-5707	PP_5351	zwf-3	GLU6PDEHYDROG-RXN	1.1.1.49	glucose 6-phosphate 1-dehydrogenase	No Evidence Code
+G1G01-1096	PP_1023	pgl	6PGLUCONOLACT-RXN	3.1.1.31	6-phosphogluconolactonase	No Evidence Code
+G1G01-4308	PP_4043	gntZ	RXN-9952	1.1.1.44	6-phosphogluconate dehydrogenase	No Evidence Code
