@@ -159,4 +159,21 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+
+# Large files from repo (too big for github). Can be updated with find * -size +99M | cat >> .gitignore
+# That command finds all files with size >99Mb (github limit is 100Mb) and then pipes the output into the cat command to the .gitignore file
+# https://stackoverflow.com/questions/62287192/git-add-all-files-except-too-large-files
+
 ./DavidCarruthers/data/pickledDataFramefromEDD.pkl
+DavidCarruthers/dbtl3ONLY_figures_and_analysis/dbtl0_dbtl1_dbtl3_rec_df_filtered_training_data.pkl
+DavidCarruthers/dbtl5_figures_and_analysis/dbtl5_rec_df_filtered_training_data.pkl
+DavidCarruthers/prot_filter_compare/dbtl1_new_filter/dbtl1_rec_df_filtered_training_data.pkl
+DavidCarruthers/prot_filter_compare/dbtl1_new_filter_diff_seed/dbtl1_rec_df_filtered_training_data.pkl
+DavidCarruthers/prot_filter_compare/dbtl1_old_filter/dbtl1_rec_df_filtered_training_data.pkl
+DavidCarruthers/dbtl4_figures_and_analysis/dbtl4_rec_df_filtered_training_data.pkl
+DavidCarruthers/dbtl1_figures_and_analysis/dbtl1_rec_df_filtered_training_data.pkl
+DavidCarruthers/dbtl1_figures_and_analysis/dbtl1_rec_df.pkl
+DavidCarruthers/old/dbtl2_full_data.csv
+DavidCarruthers/dbtl2_figures_and_analysis/dbtl0_dbtl1_dbtl2_rec_df_filtered_training_data.pkl
+DavidCarruthers/dbtl3_figures_and_analysis/dbtl0_dbtl1_dbtl3_rec_df_filtered_training_data.pkl
+DavidCarruthers/dbtl6_figures_and_analysis/dbtl6_rec_df_filtered_training_data.pkl
