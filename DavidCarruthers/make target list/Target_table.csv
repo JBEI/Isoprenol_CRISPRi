@@ -1,0 +1,121 @@
+Locus number,Protein name,Source (Flux-RETAP or Heuristic),RbTn-Seq Essential?,Mean isoprenol titer (mg/L),dCas9/control,Target/control,Passed DBTL0 filter?,Used after DBTL2/3?
+PP_0001,Probable chromosome-partitioning protein ParB,FR,N,58.03,1.04,0.08,False,False
+PP_0103,Cytochrome c oxidase subunit 2 (EC 7.1.1.9),FR,N,183.52,0.2,,False,False
+PP_0104,Cytochrome c oxidase subunit 1 (EC 7.1.1.9),FR,N,130.41,1.11,,False,False
+PP_0105,Cytochrome c oxidase assembly protein CtaG,FR,N,144.84,0.96,,False,False
+PP_0106,cytochrome-c oxidase (EC 7.1.1.9) (Cytochrome aa3 subunit 3) (Cytochrome c oxidase polypeptide III),FR,N,125.03,1.09,,False,False
+PP_0168,Surface adhesion protein,H,N,196.29,1.13,0.03,True,False
+PP_0225,Sulfur compound ABC transporter-ATP-binding subunit,FR,N,119.72,1.79,,False,False
+PP_0226,Sulfur compound ABC transporter-permease subunit,FR,N,139.64,1.13,0.06,True,False
+PP_0277,Lipoprotein,H,Y,126.66,0.92,,False,False
+PP_0338,Acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12),H,Y,211.49,0.02,0.82,False,False
+PP_0362,Biotin synthase (EC 2.8.1.6),H,N,215.79,0.03,,False,False
+PP_0368,Acyl-CoA dehydrogenase,H,N,236.68,0.94,0.03,True,True
+PP_0437,Bifunctional ligase/repressor BirA (Biotin operon repressor) (Biotin--[acetyl-CoA-carboxylase] ligase) (EC 6.3.4.15) (Biotin--protein ligase) (Biotin-[acetyl-CoA carboxylase] synthetase),H,Y,225.59,0.85,0.04,True,True
+PP_0528,"Farnesyl diphosphate synthase (EC 2.5.1.1, EC 2.5.1.10)",H,Y,393.7,0.89,0.14,True,True
+PP_0548,Flavin prenyltransferase UbiX (EC 2.5.1.129),H,Y,304.89,0.95,,False,False
+PP_0582,Thiolase family protein,H,N,165.48,0.68,0.62,False,False
+PP_0597,Methylmalonate-semialdehyde dehydrogenase (EC 1.2.1.27),H,N,163.8,1.11,0.02,True,False
+PP_0654,Probable malate dehydrogenase (EC 1.1.1.37),H,N,112.83,0.83,0.2,True,False
+PP_0658,Homocysteine S-methyltransferase family protein,FR,N,130.08,0.97,0.01,True,False
+PP_0691,Glutamate 5-kinase (EC 2.7.2.11) (Gamma-glutamyl kinase) (GK),FR,N,155.04,0.06,0.96,False,False
+PP_0751,Probable malate:quinone oxidoreductase 1 (EC 1.1.5.4) (MQO 1) (Malate dehydrogenase [quinone] 1),H,Y,211.03,1.13,0.04,True,True
+PP_0774,Phosphate acetyltransferase (EC 2.3.1.8) (Phosphotransacetylase),H,N,142.33,0.49,0.08,True,False
+PP_0806,Surface adhesion protein,H,N,212.08,1.0,,False,False
+PP_0812,Ubiquinol oxidase subunit 2,FR,Y,244.11,0.68,0.24,True,True
+PP_0813,Cytochrome bo(3) ubiquinol oxidase subunit 1 (EC 7.1.1.3) (Cytochrome o ubiquinol oxidase subunit 1) (Oxidase bo(3) subunit 1) (Ubiquinol oxidase polypeptide I) (Ubiquinol oxidase subunit 1),FR,Y,267.8,0.91,0.17,True,True
+PP_0814,Cytochrome bo(3) ubiquinol oxidase subunit 3 (Cytochrome o ubiquinol oxidase subunit 3) (Oxidase bo(3) subunit 3) (Ubiquinol oxidase polypeptide III) (Ubiquinol oxidase subunit 3),FR,Y,312.4,0.03,,True,True
+PP_0815,Cytochrome bo(3) ubiquinol oxidase subunit 4 (Cytochrome o ubiquinol oxidase subunit 4) (Oxidase bo(3) subunit 4) (Ubiquinol oxidase polypeptide IV) (Ubiquinol oxidase subunit 4),FR,Y,258.98,0.36,,True,True
+PP_0897,Fumarate hydratase class I (EC 4.2.1.2),H,Y,95.12,0.25,0.63,True,False
+PP_0944,Fumarate hydratase class II (Fumarase C) (EC 4.2.1.2) (Aerobic fumarase) (Iron-independent fumarase),H,N,97.99,0.74,0.69,True,False
+PP_0999,Carbamate kinase,FR,N,148.3,0.58,0.07,True,False
+PP_1023,6-phosphogluconolactonase (6PGL) (EC 3.1.1.31),FR,Y,132.64,0.07,0.9,False,False
+PP_1031,Inosine-5'-monophosphate dehydrogenase (IMP dehydrogenase) (IMPD) (IMPDH) (EC 1.1.1.205),FR,Y,119.89,0.79,0.89,False,False
+PP_1157,Acetolactate synthase,H,Y,167.83,0.94,,False,False
+PP_1240,Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6) (SAICAR synthetase),FR,Y,281.78,0.06,0.86,False,False
+PP_1251,Probable malate:quinone oxidoreductase 2 (EC 1.1.5.4) (MQO 2) (Malate dehydrogenase [quinone] 2),H,N,44.94,0.74,0.04,False,False
+PP_1317,Ubiquinol-cytochrome c reductase iron-sulfur subunit (EC 7.1.1.8),FR,N,152.13,1.24,0.02,True,True
+PP_1318,Cytochrome b,FR,N,156.36,0.89,0.05,True,False
+PP_1319,"Ubiquinol--cytochrome c reductase, cytochrome c1",FR,N,152.73,1.32,0.06,True,False
+PP_1394,"Acetolactate synthase, large subunit",H,N,170.67,1.14,,False,False
+PP_1444,Quinoprotein glucose dehydrogenase (EC 1.1.5.2),H,N,162.2,0.57,0.2,True,False
+PP_1457,Formate-dependent phosphoribosylglycinamide formyltransferase (EC 6.3.1.21) (5'-phosphoribosylglycinamide transformylase 2) (Formate-dependent GAR transformylase) (GAR transformylase 2) (GART 2) (Non-folate glycinamide ribonucleotide transformylase) (Phosphoribosylglycinamide formyltransferase 2),FR,N,177.56,0.05,0.59,True,False
+PP_1506,Adenylate kinase (AK) (EC 2.7.4.3) (ATP-AMP transphosphorylase) (ATP:AMP phosphotransferase) (Adenylate monophosphate kinase),FR,Y,233.58,0.06,0.63,True,True
+PP_1607,Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha (ACCase subunit alpha) (Acetyl-CoA carboxylase carboxyltransferase subunit alpha) (EC 2.1.3.15),H,Y,239.52,0.03,0.87,True,False
+PP_1610,CTP synthase (EC 6.3.4.2) (Cytidine 5'-triphosphate synthase) (Cytidine triphosphate synthetase) (CTP synthetase) (CTPS) (UTP--ammonia ligase),FR,Y,42.31,0.05,0.64,False,False
+PP_1620,5'-nucleotidase SurE (EC 3.1.3.5) (Nucleoside 5'-monophosphate phosphohydrolase),FR,N,86.73,1.11,0.02,True,False
+PP_1664,Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2) (5'-phosphoribosylglycinamide transformylase) (GAR transformylase) (GART),FR,N,166.03,0.06,2.05,False,False
+PP_1755,Fumarate hydratase class II (Fumarase C) (EC 4.2.1.2) (Aerobic fumarase) (Iron-independent fumarase),H,N,114.76,0.77,0.05,True,False
+PP_1769,Bifunctional chorismate mutase/prephenate dehydratase (EC 4.2.1.51) (EC 5.4.99.5) (Chorismate mutase-prephenate dehydratase) (p-protein),FR,Y,275.55,0.04,0.82,True,True
+PP_1770,3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19) (5-enolpyruvylshikimate-3-phosphate synthase) (EPSP synthase) (EPSPS),FR,N,252.55,0.04,0.93,False,False
+PP_1777,Phosphomannomutase (EC 5.4.2.8),H,N,0.01,0.55,0.01,False,False
+PP_2095,Dihydroorotate dehydrogenase (quinone) (EC 1.3.5.2) (DHOdehase) (DHOD) (DHODase) (Dihydroorotate oxidase),FR,Y,131.86,0.09,0.76,True,False
+PP_2112,Aconitate hydratase (Aconitase) (EC 4.2.1.3),H,N,69.1,1.1,0.06,True,False
+PP_2136,Fatty acid oxidation complex subunit alpha [Includes: Enoyl-CoA hydratase/Delta(3)-cis-Delta(2)-trans-enoyl-CoA isomerase/3-hydroxybutyryl-CoA epimerase (EC 4.2.1.17) (EC 5.1.2.3) (EC 5.3.3.8); 3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35)],H,N,234.13,0.71,0.04,True,True
+PP_2137,3-ketoacyl-CoA thiolase (EC 2.3.1.16) (Acetyl-CoA acyltransferase) (Beta-ketothiolase) (Fatty acid oxidation complex subunit beta),H,N,188.36,0.81,0.02,True,False
+PP_2213,Acyl-CoA synthetase (EC 6.2.1.-),H,N,188.38,0.82,0.06,True,False
+PP_2339,Aconitate hydratase B (EC 4.2.1.3) (EC 4.2.1.99) (2-methylisocitrate dehydratase),H,Y,101.59,1.0,0.24,True,False
+PP_2471,Integration host factor subunit alpha (IHF-alpha),H,Y,187.66,0.26,0.28,True,False
+PP_2589,Aldehyde dehydrogenase family protein,H,N,191.71,0.73,,False,False
+PP_2925,Probable malate:quinone oxidoreductase 3 (EC 1.1.5.4) (MQO 3) (Malate dehydrogenase [quinone] 3),H,N,93.04,0.58,0.07,True,False
+PP_3071,Acetoacetyl-coenzyme A synthetase (EC 6.2.1.16),H,N,179.03,0.58,0.1,True,False
+PP_3122,3-oxoadipate CoA-transferase (EC 2.8.3.6),H,N,176.01,0.99,0.57,False,False
+PP_3123,3-oxoadipate CoA-transferase (EC 2.8.3.6),H,N,128.88,0.73,0.09,True,False
+PP_3280,3-oxoadipyl-CoA thiolase (EC 2.3.1.174),H,N,195.28,1.02,,False,False
+PP_3282,3-hydroxyadipyl-CoA dehydrogenase (EC 1.1.1.35),H,N,157.76,0.53,,False,False
+PP_3355,Beta-ketothiolase,H,N,241.72,0.42,,False,False
+PP_3394,3-hydroxy-3-methylglutaryl-CoA lyase,H,N,0.01,0.96,,False,False
+PP_3578,Phosphoglucomutase (EC 5.4.2.2),H,N,167.82,1.07,0.03,True,False
+PP_3744,Transcriptional dual regulator GlcC-Glycolate,H,N,225.8,0.91,,False,False
+PP_3754,"Beta-ketothiolase BktB (EC 2.3.1.16, EC 2.3.1.9)",H,N,176.57,0.48,0.07,True,False
+PP_3755,3-hydroxybutyryl-CoA dehydrogenase (EC 1.1.1.157),H,N,192.17,0.4,0.1,True,False
+PP_4011,Isocitrate dehydrogenase [NADP] (EC 1.1.1.42),H,N,107.7,1.0,0.01,True,False
+PP_4012,Isocitrate dehydrogenase [NADP] (EC 1.1.1.42) (Oxalosuccinate decarboxylase),H,Y,34.49,0.93,0.68,False,False
+PP_4043,"6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)",FR,N,140.31,0.61,,False,False
+PP_4116,Isocitrate lyase (EC 4.1.3.1) (Isocitrase) (Isocitratase),FR,N,143.07,0.84,0.07,True,False
+PP_4119,NADH-quinone oxidoreductase subunit A (EC 7.1.1.-) (NADH dehydrogenase I subunit A) (NDH-1 subunit A) (NUO1),FR,Y,18.39,1.21,0.18,False,False
+PP_4120,NADH-quinone oxidoreductase subunit B (EC 7.1.1.-) (NADH dehydrogenase I subunit B) (NDH-1 subunit B),FR,N,162.0,0.75,0.01,True,True
+PP_4121,NADH-quinone oxidoreductase subunit C/D (EC 7.1.1.-) (NADH dehydrogenase I subunit C/D) (NDH-1 subunit C/D),FR,N,161.83,0.56,0.03,True,False
+PP_4122,NADH-quinone oxidoreductase subunit E (NADH dehydrogenase I subunit E) (NDH-1 subunit E),FR,N,172.51,0.61,0.01,True,False
+PP_4123,NADH-quinone oxidoreductase subunit F (EC 7.1.1.-),FR,Y,141.57,1.08,0.07,True,False
+PP_4128,NADH-quinone oxidoreductase subunit K (EC 7.1.1.-) (NADH dehydrogenase I subunit K) (NDH-1 subunit K),FR,Y,166.33,1.19,,False,False
+PP_4130,NADH-quinone oxidoreductase subunit M (NADH dehydrogenase I subunit M) (NDH-1 subunit M),FR,N,128.68,0.18,3.11,False,False
+PP_4159,Potassium-transporting ATPase KdpC subunit (ATP phosphohydrolase [potassium-transporting] C chain) (Potassium-binding and translocating subunit C) (Potassium-translocating ATPase C chain),FR,N,139.17,0.51,,False,False
+PP_4160,Potassium-transporting ATPase ATP-binding subunit (EC 7.2.2.6) (ATP phosphohydrolase [potassium-transporting] B chain) (Potassium-binding and translocating subunit B) (Potassium-translocating ATPase B chain),FR,N,124.45,0.65,,False,False
+PP_4161,Potassium-transporting ATPase potassium-binding subunit (ATP phosphohydrolase [potassium-transporting] A chain) (Potassium-binding and translocating subunit A) (Potassium-translocating ATPase A chain),FR,N,121.97,0.7,,False,False
+PP_4174,3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase (EC 4.2.1.59) (3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabA) (Beta-hydroxydecanoyl thioester dehydrase) (Trans-2-decenoyl-[acyl-carrier-protein] isomerase) (EC 5.3.3.14),FR,Y,319.66,0.01,0.91,False,False
+PP_4175,"3-oxoacyl-[acyl-carrier-protein] synthase 1 (EC 2.3.1.-, EC 2.3.1.41)",FR,Y,169.98,0.06,0.76,False,False
+PP_4185,Succinate--CoA ligase [ADP-forming] subunit alpha (EC 6.2.1.5) (Succinyl-CoA synthetase subunit alpha) (SCS-alpha),H,Y,114.95,0.24,0.44,True,False
+PP_4186,Succinate--CoA ligase [ADP-forming] subunit beta (EC 6.2.1.5) (Succinyl-CoA synthetase subunit beta) (SCS-beta),H,Y,105.39,0.03,0.57,True,False
+PP_4187,Dihydrolipoyl dehydrogenase (EC 1.8.1.4),FR,Y,143.8,0.02,0.62,True,False
+PP_4188,Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61) (2-oxoglutarate dehydrogenase complex component E2),FR,Y,209.97,0.81,0.19,True,False
+PP_4189,oxoglutarate dehydrogenase (succinyl-transferring) (EC 1.2.4.2),FR,Y,291.4,0.32,0.11,True,True
+PP_4191,Succinate dehydrogenase flavoprotein subunit (EC 1.3.5.1),H,Y,358.44,0.04,0.55,True,True
+PP_4192,Succinate dehydrogenase hydrophobic membrane anchor subunit,H,Y,232.69,0.12,0.87,True,True
+PP_4193,Succinate dehydrogenase cytochrome b556 subunit,H,Y,220.87,0.05,1.0,False,False
+PP_4194,Citrate synthase,FR,Y,271.03,0.03,0.96,False,False
+PP_4266,Adenine phosphoribosyltransferase (APRT) (EC 2.4.2.7),FR,N,129.71,0.77,0.07,True,False
+PP_4487,Acetyl-coenzyme A synthetase 1 (AcCoA synthetase 1) (Acs 1) (EC 6.2.1.1) (Acetate--CoA ligase 1) (Acyl-activating enzyme 1),H,N,191.4,0.88,0.01,True,False
+PP_4549,Long-chain-fatty-acid/CoA ligase (EC 6.2.1.3),H,N,201.79,0.65,0.05,True,False
+PP_4550,Long-chain-fatty-acid/CoA ligase (EC 6.2.1.3),H,N,102.97,0.47,0.59,True,False
+PP_4635,Enoyl-[acyl-carrier-protein] reductase [NADH] (ENR) (EC 1.3.1.9),FR,Y,134.05,0.05,0.96,False,False
+PP_4636,Acetyl-CoA acetyltransferase (EC 2.3.1.9),H,N,175.92,1.04,0.2,True,False
+PP_4650,"Ubiquinol oxidase subunit II, cyanide insensitive",FR,N,127.49,0.78,,False,False
+PP_4651,"Ubiquinol oxidase subunit I, cyanide insensitive",FR,N,137.43,0.04,0.37,True,False
+PP_4667,Methylmalonate-semialdehyde dehydrogenase (EC 1.2.1.27),H,N,178.38,0.74,0.16,True,False
+PP_4678,Ketol-acid reductoisomerase (NADP(+)) (KARI) (EC 1.1.1.86) (Acetohydroxy-acid isomeroreductase) (AHIR) (Alpha-keto-beta-hydroxylacyl reductoisomerase) (Ketol-acid reductoisomerase type 1) (Ketol-acid reductoisomerase type I),H,N,165.54,0.02,0.64,True,False
+PP_4679,Acetolactate synthase small subunit (AHAS) (ALS) (EC 2.2.1.6) (Acetohydroxy-acid synthase small subunit),H,N,67.06,0.03,0.44,True,False
+PP_4702,Acetyl-coenzyme A synthetase 2 (AcCoA synthetase 2) (Acs 2) (EC 6.2.1.1) (Acetate--CoA ligase 2) (Acyl-activating enzyme 2),H,N,173.16,0.39,25.6,False,False
+PP_4737,D-lactate dehydrogenase (EC 1.1.-.-),H,N,184.85,0.84,,False,False
+PP_4862,"3-hydroxy acid dehydrogenase, NADP-dependent / malonic semialdehyde reductase (EC 1.1.1.276, EC 1.1.1.298)",FR,N,143.94,0.66,0.1,True,False
+PP_4894,RNA-binding protein Hfq,H,Y,44.86,0.04,0.43,False,False
+PP_5064,Oxygen-dependent choline dehydrogenase (CDH) (CHD) (EC 1.1.99.1) (Betaine aldehyde dehydrogenase) (BADH) (EC 1.2.1.8),H,N,10.57,0.02,0.98,False,False
+PP_5128,Dihydroxy-acid dehydratase (DAD) (EC 4.2.1.9),FR,N,107.17,0.06,1.0,False,False
+PP_5186,Acetylornithine deacetylase (EC 3.5.1.16),FR,N,110.44,1.03,0.01,True,False
+PP_5203,5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2),FR,N,132.15,0.77,0.26,True,False
+PP_5288,Phosphomannomutase/phosphoglucomutase (PMM / PGM) (EC 5.4.2.2) (EC 5.4.2.8),H,N,162.86,0.78,0.03,True,False
+PP_5335,N5-carboxyaminoimidazole ribonucleotide synthase (N5-CAIR synthase) (EC 6.3.4.18) (5-(carboxyamino)imidazole ribonucleotide synthetase),H,Y,214.31,0.03,1.03,False,False
+PP_5416,ATP synthase subunit delta (ATP synthase F(1) sector subunit delta) (F-type ATPase subunit delta) (F-ATPase subunit delta),H,Y,152.72,0.02,1.17,False,False
+PP_5417,ATP synthase subunit b (ATP synthase F(0) sector subunit b) (ATPase subunit I) (F-type ATPase subunit b) (F-ATPase subunit b),H,Y,202.53,0.15,0.84,True,False
+PP_5419,ATP synthase subunit a (ATP synthase F0 sector subunit a) (F-ATPase subunit 6),H,Y,391.45,0.02,0.02,False,False
+PP_5420,ATP synthase protein I,H,Y,91.6,0.03,,False,False
