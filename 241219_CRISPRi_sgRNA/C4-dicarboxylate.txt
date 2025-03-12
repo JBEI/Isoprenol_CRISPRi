@@ -1,0 +1,9 @@
+Gene ID	Gene Accession	Gene name	Enzymatic activity	Evidence
+G1G01-2401	PP_2255	dctA-III	C4-dicarboxylate transport protein	EV-COMP
+G1G01-2194	PP_2056	dctA-II	C4-dicarboxylate transport protein	EV-COMP
+G1G01-1492	PP_1402	dctB	C4-dicarboxylate transport sensor protein	EV-COMP
+G1G01-1270	PP_1188	dctA-I	C4-dicarboxylate transport protein	EV-COMP
+G1G01-1250	PP_1167		TRAP dicarboxylate transporter	EV-COMP
+G1G01-1251	PP_1168		TRAP dicarboxylate transporter	EV-COMP
+G1G01-1252	PP_1169	dctP	TRAP dicarboxylate transporter	EV-COMP
+X	PP_1066	dctD-II
