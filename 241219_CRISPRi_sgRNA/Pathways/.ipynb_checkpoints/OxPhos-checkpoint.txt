@@ -1,0 +1,54 @@
+Gene ID	Gene Accession	Gene name	Reaction id	Reaction EC	Enzymatic activity	Evidence
+G1G01-4392	PP_4125	nuoH	NADH-DEHYDROG-A-RXN	7.1.1.2	NADH:ubiquinone reductase (H+-translocating)	No Evidence Code
+G1G01-4389	PP_4122	nuoE	NADH-DEHYDROG-A-RXN	7.1.1.2	NADH:ubiquinone reductase (H+-translocating)	No Evidence Code
+G1G01-4388	PP_4121	nuoC	NADH-DEHYDROG-A-RXN	7.1.1.2	NADH:ubiquinone reductase (H+-translocating)	No Evidence Code
+G1G01-4397	PP_4130	nuoM	NADH-DEHYDROG-A-RXN	7.1.1.2	NADH:ubiquinone reductase (H+-translocating)	No Evidence Code
+G1G01-4396	PP_4129	nuoL	NADH-DEHYDROG-A-RXN	7.1.1.2	NADH:ubiquinone reductase (H+-translocating)	No Evidence Code
+G1G01-4394	PP_4127	nuoJ	NADH-DEHYDROG-A-RXN	7.1.1.2	NADH:ubiquinone reductase (H+-translocating)	No Evidence Code
+G1G01-4391	PP_4124	nuoG	NADH-DEHYDROG-A-RXN	7.1.1.2	NADH:ubiquinone reductase (H+-translocating)	No Evidence Code
+G1G01-4390	PP_4123	nuoF	NADH-DEHYDROG-A-RXN	7.1.1.2	NADH:ubiquinone reductase (H+-translocating)	No Evidence Code
+G1G01-4386	PP_4119	nuoA	NADH-DEHYDROG-A-RXN	7.1.1.2	NADH:ubiquinone reductase (H+-translocating)	No Evidence Code
+G1G01-4387	PP_4120	nuoB	NADH-DEHYDROG-A-RXN	7.1.1.2	NADH:ubiquinone reductase (H+-translocating)	No Evidence Code
+G1G01-4393	PP_4126	nuoI	NADH-DEHYDROG-A-RXN	7.1.1.2	NADH:ubiquinone reductase (H+-translocating)	No Evidence Code
+G1G01-4395	PP_4128	nuoK	NADH-DEHYDROG-A-RXN	7.1.1.2	NADH:ubiquinone reductase (H+-translocating)	No Evidence Code
+G1G01-4398	PP_4131	nuoN	NADH-DEHYDROG-A-RXN	7.1.1.2	NADH:ubiquinone reductase (H+-translocating)	No Evidence Code
+G1G01-1404	PP_1317	petA	1.10.2.2-RXN	7.1.1.8	cytochrome bc1 complex	No Evidence Code
+G1G01-1406	PP_1319	petC	1.10.2.2-RXN	7.1.1.8	cytochrome bc1 complex	No Evidence Code
+G1G01-4524	PP_4251	ccoO-I	CYTOCHROME-C-OXIDASE-RXN	1.9.3.1	Cbb3-1 cytochrome c oxidase	No Evidence Code
+G1G01-4525	PP_4252	ccoQ-I	CYTOCHROME-C-OXIDASE-RXN	1.9.3.1	Cbb3-1 cytochrome c oxidase	No Evidence Code
+G1G01-4526	PP_4253	ccoP-I	CYTOCHROME-C-OXIDASE-RXN	1.9.3.1	Cbb3-1 cytochrome c oxidase	No Evidence Code
+G1G01-4523	PP_4250	ccoN-I	CYTOCHROME-C-OXIDASE-RXN	1.9.3.1	Cbb3-1 cytochrome c oxidase	No Evidence Code
+G1G01-888	PP_0815	cyoD	RXN0-5268	7.1.1.3	cytochrome bo3 terminal oxidase	No Evidence Code
+G1G01-887	PP_0814	cyoC	RXN0-5268	7.1.1.3	cytochrome bo3 terminal oxidase	No Evidence Code
+G1G01-886	PP_0813	cyoB	RXN0-5268	7.1.1.3	cytochrome bo3 terminal oxidase	No Evidence Code
+G1G01-885	PP_0812	cyoA	RXN0-5268	7.1.1.3	cytochrome bo3 terminal oxidase	No Evidence Code
+G1G01-5779	PP_5413	atpD			ATP synthase	No Evidence Code
+G1G01-5781	PP_5415	atpA			ATP synthase	No Evidence Code
+G1G01-5780	PP_5414	atpG			ATP synthase	No Evidence Code
+G1G01-5782	PP_5416	atpH			ATP synthase	No Evidence Code
+G1G01-5778	PP_5412	atpC			ATP synthase	No Evidence Code
+G1G01-5784	PP_5418	atpE			ATP synthase	No Evidence Code
+G1G01-5783	PP_5417	atpF			ATP synthase	No Evidence Code
+G1G01-5785	PP_5419	atpB			ATP synthase	No Evidence Code
+G1G01-4644	PP_4366	fliI			flagellum-specific ATP synthase	No Evidence Code
+G1G01-107	PP_0103		cytochrome c oxidase	No Evidence Code
+G1G01-108	PP_0104	ctaD	cytochrome c oxidase	No Evidence Code
+G1G01-110	PP_0106		cytochrome c oxidase	No Evidence Code
+G1G01-4531	PP_4258	ccoP2	cytochrome c oxidase	No Evidence Code
+G1G01-4530	PP_4257	ccoQ-II	cytochrome c oxidase	No Evidence Code
+G1G01-4529	PP_4256	ccoO2	cytochrome c oxidase	No Evidence Code
+G1G01-4528	PP_4255	ccoN2	cytochrome c oxidase	No Evidence Code
+G1G01-109	PP_0105		cytochrome c oxidase assembly protein	No Evidence Code
+G1G01-4964	PP_4651	cioA	ubiquinol oxidase	No Evidence Code
+G1G01-4963	PP_4650	cioB	ubiquinol oxidase	No Evidence Code
+G1G01-889	PP_0816	cyoE	protoheme IX farnesyltransferase	No Evidence Code
+G1G01-115	PP_0110		CyoE-like protoheme IX farnesyltransferase	No Evidence Code	
+G1G01-114	PP_0109		Cyochrome B	No Evidence Code
+G1G01-4460	PP_4192	sdhD	succinate dehydrogenase	No Evidence Code
+G1G01-4458	PP_4190	sdhB	succinate dehydrogenase	No Evidence Code
+G1G01-4459	PP_4191	sdhA	succinate dehydrogenase	No Evidence Code
+G1G01-4461	PP_4193	sdhC	succinate dehydrogenase	No Evidence Code
+G1G01-3571	PP_3338		cytochrome bd-type quinol oxidase	No Evidence Code
+G1G01-4472	PP_4203		ubiquinone oxidoreductase electron transfer flavoprotein	No Evidence Code
+G1G01-4471	PP_4202	etfB	electron transfer flavoprotein subunit beta	No Evidence Code
+G1G01-4470	PP_4201	etfA	electron transfer flavoprotein subunit alpha	No Evidence Code
