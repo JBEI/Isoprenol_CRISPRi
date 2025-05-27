@@ -1,0 +1,13 @@
+Gene ID	Gene Accession	Gene name	Reaction id	Reaction EC	Enzymatic activity	Evidence
+G1G01-576	PP_0527	dxs	DXS-RXN	2.2.1.7	1-deoxyxylulose-5-phosphate synthase	No Evidence Code
+G1G01-1694	PP_1597	dxr	DXPREDISOM-RXN	1.1.1.267	1-deoxy-D-xylulose-5-phosphate reductoisomerase	No Evidence Code
+G1G01-1711	PP_1614	ispD	2.7.7.60-RXN	2.7.7.60	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	No Evidence Code
+G1G01-798	PP_0723	ispE	2.7.1.148-RXN	2.7.1.148	4-diphosphocytidyl-2C-methyl-D-erythritol kinase	No Evidence Code
+G1G01-1715	PP_1618	ispF	RXN0-302	4.6.1.12	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	No Evidence Code
+G1G01-663	PP_0606	ispH	ISPH2-RXN	1.17.7.4	4-hydroxy-3-methylbut-2-enyl diphosphate reductase	No Evidence Code
+G1G01-663	PP_0606	ispH	RXN0-884	1.17.7.4	4-hydroxy-3-methylbut-2-enyl diphosphate reductase	No Evidence Code
+G1G01-577	PP_0528	ispA	GPPSYN-RXN	2.5.1.1	farnesyl diphosphate synthase	No Evidence Code
+G1G01-759	PP_0687	ispB	TRANS-OCTAPRENYLTRANSTRANSFERASE-RXN	2.5.1.84	nonaprenyl diphosphate synthase	No Evidence Code
+G1G01-577	PP_0528	ispA	FPPSYN-RXN	2.5.1.10	farnesyl diphosphate synthase	No Evidence Code
+G1G01-1692	PP_1595	uppS	RXN-8999	2.5.1.31	(2E,6E)-farnesyl-diphosphate specific ditrans,polycis-undecaprenyl-diphosphate synthase	No Evidence Code
+G1G01-3041	PP_2862	uppP	UNDECAPRENYL-DIPHOSPHATASE-RXN	3.6.1.27	undecaprenyl-diphosphatase	No Evidence Code

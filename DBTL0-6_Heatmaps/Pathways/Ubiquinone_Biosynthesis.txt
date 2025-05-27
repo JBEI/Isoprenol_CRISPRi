@@ -1,0 +1,9 @@
+Gene ID	Gene Accession	Gene name	Reaction id	Reaction EC	Enzymatic activity	Evidence
+G1G01-5674	PP_5318	ubiA	2.5.1.39-RXN	2.5.1.39	4-hydroxybenzoate nonaprenyltransferase	No Evidence Code
+G1G01-5562	PP_5213	ubiD	RXN-9238	4.1.1.98	3-nonaprenyl-4-hydroxybenzoate carboxy-lyase	No Evidence Code
+G1G01-5358	PP_5013	ubiB	RXN-9239	1.14.13.240	2-nonaprenylphenol hydroxylase	No Evidence Code
+G1G01-1866	PP_1765	ubiG	RXN-9240	2.1.1.222	ubiquinone biosynthesis O-methyltransferase	No Evidence Code
+G1G01-5545	PP_5199	ubiH	RXN-9241	1.14.13.-	2-nonaprenyl-6-methoxyphenyl hydroxylase	No Evidence Code
+G1G01-5356	PP_5011	ubiE	RXN-9242	2.1.1.201	ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE	No Evidence Code
+G1G01-5543	PP_5197	visC	RXN-9243	1.14.99.60	3-demethoxyubiquinol 3-hydroxylase	EV-COMP
+G1G01-1866	PP_1765	ubiG	2.1.1.64-RXN	2.1.1.64	ubiquinone biosynthesis O-methyltransferase	No Evidence Code

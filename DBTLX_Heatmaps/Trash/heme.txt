@@ -1,6 +1,0 @@
-Gene ID	Gene Accession	Gene name	Reaction id	Reaction EC	Enzymatic activity	Evidence
-G1G01-5418	PP_5074	hemE	UROGENDECARBOX-RXN	4.1.1.37	uroporphyrinogen decarboxylase	No Evidence Code
-G1G01-78	PP_0073	hemF	RXN0-1461	1.3.3.3	coproporphyrinogen-III oxidase	No Evidence Code
-G1G01-467	PP_0431	hemJ	PROTOPORGENOXI-RXN	1.3.3.4	protoporphyrinogen oxidase	EV-IC
-G1G01-819	PP_0744	hemH	PROTOHEMEFERROCHELAT-RXN	4.99.1.1	ferrochelatase	No Evidence Code
-G1G01-889	PP_0816	cyoE	HEMEOSYN-RXN	2.5.1.141	protoheme IX farnesyltransferase	No Evidence Code
