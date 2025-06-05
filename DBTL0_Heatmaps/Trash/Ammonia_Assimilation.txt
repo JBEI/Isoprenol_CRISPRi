@@ -1,7 +1,0 @@
-Gene ID	Gene Accession	Gene name	Reaction id	Reaction EC	Enzymatic activity	Evidence
-G1G01-3367	PP_3148		GLUTAMINESYN-RXN	6.3.1.2	glutamine synthetase	No Evidence Code
-G1G01-4677	PP_4399		GLUTAMINESYN-RXN	6.3.1.2	glutamine synthetase	No Evidence Code
-G1G01-4855	PP_4547		GLUTAMINESYN-RXN	6.3.1.2	glutamine synthetase	No Evidence Code
-G1G01-5391	PP_5046	glnA	GLUTAMINESYN-RXN	6.3.1.2	glutamine synthetase	No Evidence Code
-G1G01-5419	PP_5075	gltD	GLUTAMATESYN-RXN	1.4.1.13	L-glutamate synthase	No Evidence Code
-G1G01-5420	PP_5076	gltB	GLUTAMATESYN-RXN	1.4.1.13	L-glutamate synthase	No Evidence Code
