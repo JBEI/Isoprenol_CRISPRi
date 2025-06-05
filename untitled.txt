@@ -1,7 +1,0 @@
-COG Analysis includes the initial COG categories that ultimately became Fig. 3A
-
-DBTL Cycle Dispensing includes notebooks for the ECHO dispense list generation. A selection of new sgRNA arrays (2 to 4 sgRNAs) can be input alongside the set of placeholder plasmids harboring those sgRNAs. A notebook "A" then commutes the dispense lists for the simultaneous ligation and digestion step from a given set of recommendations for a given DBTL cycle. Then notebook "B" computes the dispense list for the assembly. A final notebook "C" includes Fig. 2B, Fig. 2C, and Fig. S2.
-
-DBTL0_Heatmaps contains files for generating the DBTL0 heatmaps ultimately used in Fig. 5B and Fig. S8. Any pathway can be downloaded from, for example, Biocyc and formatted for the notebook to generate a new heatmap populated with statistically significant proteins that are significantly up/downregulated in a given pathway. The thresholds for p-val and fold-change may be altered accordingly. The current notebook is set to only consider those sgRNAs elucidated from the parent-child analysis.
-
-DBTL0-6_Heatmaps are analogous to DBTL0 however take into account all data from across the study.
