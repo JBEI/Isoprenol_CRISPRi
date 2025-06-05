@@ -1,0 +1,19 @@
+Cycle,Failure Mode,# Plasmids
+DBTL-1,Success,58
+DBTL-2,Success,58
+DBTL-3,Success,56
+DBTL-4,Success,58
+DBTL-5,Success,58
+DBTL-6,Success,60
+DBTL-1,Failed Assembly,0
+DBTL-2,Failed Assembly,0
+DBTL-3,Failed Assembly,4
+DBTL-4,Failed Assembly,1
+DBTL-5,Failed Assembly,1
+DBTL-6,Failed Assembly,0
+DBTL-1,Failed Transformation,2
+DBTL-2,Failed Transformation,2
+DBTL-3,Failed Transformation,0
+DBTL-4,Failed Transformation,1
+DBTL-5,Failed Transformation,1
+DBTL-6,Failed Transformation,0
