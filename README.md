@@ -1,4 +1,4 @@
-# Automation of a CRISPRi platform for enhanced isoprenol production in Pseudomonas putida (working title)
+# Automation and machine learning drive rapid optimization of isoprenol production in Pseudomonas putida
 
 This github repo describes the data analysis for the paper: XXX
 
