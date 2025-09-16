@@ -1,0 +1,79 @@
+# Load the required packages
+library(clusterProfiler)
+library(KEGGREST)
+library(ggplot2)
+library(extrafont)
+library(dplyr)
+
+# Load the fonts
+loadfonts(device = "win")  # Use "win" for Windows, "mac" for macOS, and "pdf" for PDF devices
+
+# Function to run KEGG enrichment and clean results
+run_kegg <- function(file, label) {
+  gene_data <- read.csv(file)
+  gene_list <- gene_data$gene_id
+  
+  kegg_enrich <- enrichKEGG(
+    gene         = gene_list,
+    organism     = 'ppu',  # KEGG organism code for Pseudomonas putida
+    pvalueCutoff = 0.05
+  )
+  
+  kegg_df <- as.data.frame(kegg_enrich)
+  
+  # Calculate GeneRatio as numeric
+  kegg_df$GeneRatio <- sapply(kegg_df$GeneRatio, function(x) eval(parse(text = x)))
+  
+  # Remove organism name from description
+  kegg_df$Description <- gsub(" - Pseudomonas putida KT2440", "", kegg_df$Description)
+  
+  # Add label column
+  kegg_df$Regulation <- label
+  
+  return(kegg_df)
+}
+
+# Run enrichment for both datasets
+kegg_up   <- run_kegg("PP_0815_Upreg.csv", "Upregulated")
+kegg_down <- run_kegg("PP_0815_Downreg.csv", "Downregulated")
+
+# Combine results
+kegg_all <- bind_rows(kegg_up, kegg_down)
+
+# Reorder factor levels for each facet separately
+kegg_all <- kegg_all %>%
+  group_by(Regulation) %>%
+  mutate(Description = factor(Description, levels = unique(Description[order(Count, decreasing = FALSE)]))) %>%
+  ungroup()
+
+# Create stacked plot using facet_wrap
+p <- ggplot(kegg_all, aes(x = Count, y = Description, size = GeneRatio, fill = p.adjust)) +
+  geom_point(shape = 21, color = "black", stroke = 0.5) +
+  scale_fill_gradient(name = "p.adjust", low = "#648FFF", high = "#FE6100",
+                      limits = c(0, 0.05), oob = scales::squish) +
+  labs(title = "KEGG Pathway Enrichment Analysis for Pseudomonas putida",
+       x = "Count",
+       y = "Pathway") +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1, family = "sans"),
+        axis.text.y = element_text(family = "sans"),
+        plot.title = element_text(family = "sans", face = "bold"),
+        legend.title = element_text(family = "sans"),
+        legend.text = element_text(family = "sans")) +
+  facet_wrap(~ Regulation, scales = "free_y", ncol = 1)
+
+# Print plot
+print(p)
+
+# Calculate dynamic height based on total unique y-axis entries across both datasets
+num_y_entries <- kegg_all %>%
+  group_by(Regulation) %>%
+  summarise(n = length(unique(Description))) %>%
+  pull(n) %>%
+  sum()
+
+height_per_entry <- 0.5
+total_height <- num_y_entries * height_per_entry
+
+# Save to PDF
+ggsave("KEGG_Up_Down.pdf", plot = p, width = 6, height = total_height/2)
